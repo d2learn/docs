@@ -1,13 +1,14 @@
 [book]
-title = "Xlings Book Template | 文档 | 书籍 | 笔记"
-author = "Author Name"
-language = "en"
+title = "d2learn社区文档"
+author = "d2learn"
+language = "zh,en"
 
 [build]
 build-dir = "book"
 
 [output.html]
-git-repository-url = "https://github.com/d2learn/xlings-book-template"
+git-repository-url = "https://github.com/d2learn/docs"
+no-section-label = true
 
 [preprocessor.foo]
 # Add any additional configurations
